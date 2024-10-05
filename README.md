@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh VS</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssanthoshhere" alt="itssanthoshhere" /></a> </p>
-
 - 🌱 I’m currently learning **C++ with DSA**
 
 - 📫 How to reach me **santhosh02vs@gmail.com**
