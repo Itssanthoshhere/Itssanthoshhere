@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh VS</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m a Frontend Developer**
 
 - 📫 How to reach me **santhosh02vs@gmail.com**
 
