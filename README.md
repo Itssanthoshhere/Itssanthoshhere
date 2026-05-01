@@ -9,11 +9,11 @@
 </p>
 
 <!-- LIVE COUNTERS -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Itssanthoshhere&label=Profile+Views&color=2c5364&style=flat" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/Itssanthoshhere?label=Followers&style=flat&color=2c5364" alt="Followers" />
-</p>
+</p> -->
 
 ---
 
