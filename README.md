@@ -1,7 +1,7 @@
 <!-- BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santhosh%20VS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20ML%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
-</p>
+</p> -->
 
 <!-- TYPING ANIMATION -->
 <p align="center">
