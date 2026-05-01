@@ -160,8 +160,6 @@ Open to **full-stack, mobile (React Native), and ML engineering** roles — fres
   <a href="https://santhosh-vs-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:santhosh02vs@gmail.com"><img src="https://img.shields.io/badge/Email-santhosh02vs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://leetcode.com/vs_santhosh"><img src="https://img.shields.io/badge/LeetCode-vs__santhosh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <!-- FOOTER WAVE -->
