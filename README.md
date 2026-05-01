@@ -17,7 +17,7 @@
 
 ---
 
-I'm a BTech CSE (AI) student at **Bennett University** ('27) who builds things end-to-end — production React Native apps, full-stack web platforms, and ML systems. I've shipped real products for a defence ministry unit and a startup, co-authored an IEEE research paper, and led design teams across 15+ university events.
+I'm a BTech CSE (AI) student at **Bennett University** ('27) who builds things end-to-end — production React Native apps, full-stack web platforms, and ML systems. I've shipped real products for a defence ministry unit and a startup, and led design teams across 15+ university events.
 
 **Currently:** Head – Media & Content @ Dean Career Cloud · Multimedia Specialist @ ISAC · Open to **full-stack, mobile, and ML engineering roles**
 
