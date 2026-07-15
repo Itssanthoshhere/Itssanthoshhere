@@ -113,7 +113,7 @@ Full-stack React Native chat app — live messaging, typing indicators, and user
 
 ---
 
-### [DocSage](https://github.com/Itssanthoshhere) — Document QA System
+### [DocSage](https://github.com/Itssanthoshhere/doc-qa-system) — Document QA System
 Intelligent document QA using hybrid retrieval (FAISS + BM25 + NetworkX) with cross-encoder reranking and BERT extractive QA. React frontend + FastAPI backend.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
