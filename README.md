@@ -82,6 +82,17 @@ Built HVF e-Leave — a full-stack intranet app (React · TypeScript · PHP · M
 
 ## 🚀 Featured Projects
 
+### [Feasto](https://github.com/Itssanthoshhere/Feasto) — Full-Stack Food Delivery Microservices Platform
+Production-grade food delivery system built on a microservices architecture — six independent services (user, restaurant, order, payment, delivery, notification) communicating via RabbitMQ, with MongoDB for persistence. Designed for scalability and service isolation, mirroring real-world distributed systems patterns.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2C5364?style=flat&logo=docker&logoColor=white)
+
+---
+
 ### [Expo Ecommerce](https://github.com/Itssanthoshhere/Expo-Ecommerce) — Full-Stack Mobile Shopping Platform
 Production-ready e-commerce app with React Native mobile frontend, admin dashboard, and REST API backend — 10+ product categories, real-time inventory. Stripe PaymentSheet, Clerk (Google & Apple login), TanStack React Query, Inngest background jobs, Sentry monitoring.
 
@@ -100,16 +111,6 @@ Full-stack movie booking platform with real-time seat selection and Stripe payme
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-
----
-
-### [Bubbly ChatApp](https://github.com/Itssanthoshhere/Bubbly-ChatApp) — Real-Time Messaging Platform
-Full-stack React Native chat app — live messaging, typing indicators, and user presence via Socket.IO. JWT auth, Multer file uploads for avatars, MongoDB storage, NativeWind responsive UI.
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
