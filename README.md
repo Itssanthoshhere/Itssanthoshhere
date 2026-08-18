@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santhosh%20VS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20SDE%20Intern%20%40%20MF360&descSize=18&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Santhosh%20VS&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20SDE%20Intern%20%40%20MF360&amp;descSize=18&amp;descAlignY=60&amp;animation=fadeIn" alt="Santhosh VS" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -19,7 +19,7 @@
 
 I'm a BTech CSE (AI) student at **Bennett University** ('27) building things end-to-end — from production React Native apps to full-stack web platforms to microservices systems. Currently the **sole frontend engineer** at an AI SaaS startup (MF360), I've also shipped software for a Ministry of Defence unit, placed **Top 100 out of 640 teams at Smart India Hackathon 2025**, and led media & content operations for a 2,000+ student audience.
 
-**Currently:** SDE Intern @ MF360 (Zenith Enterprise Solutions)· Open to **SDE internships & New Grad 2027 roles**
+**Currently:** SDE Intern @ MF360 (Zenith Enterprise Solutions) · Open to **SDE internships & New Grad 2027 roles**
 
 ---
 
@@ -167,21 +167,21 @@ Open-source CLI tool (Go) for linting and validating AI agent context files — 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itssanthoshhere&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itssanthoshhere&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itssanthoshhere&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itssanthoshhere&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Itssanthoshhere&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Itssanthoshhere&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itssanthoshhere&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Itssanthoshhere&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itssanthoshhere&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itssanthoshhere&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution Graph" />
 </p>
 
 <!-- Uncomment after setting up the snake GitHub Action (snake.yml): -->
@@ -205,5 +205,5 @@ Actively seeking **SDE internships** and **New Graduate 2027** opportunities. If
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=100&amp;section=footer" alt="footer" />
 </p>
