@@ -1,25 +1,25 @@
 <!-- BANNER -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santhosh%20VS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20ML%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
-</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santhosh%20VS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20SDE%20Intern%20%40%20MF360&descSize=18&descAlignY=60&animation=fadeIn" />
+</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;React+Native+%7C+React+%7C+Node.js+%7C+FastAPI;ML+%26+NLP+Engineer+%F0%9F%A4%96;Open+to+Full-Stack+%26+Mobile+Roles+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;SDE+Intern+%40+MF360+(AI+SaaS)+%7C+Sole+Frontend+Engineer;React+Native+%7C+React+%7C+Node.js+%7C+TypeScript;SIH+2025+%E2%80%94+Top+100+%2F+640+Teams+(Rank+67)+%F0%9F%8F%86;Open+to+SDE+Internships+%26+New+Grad+Roles+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
 <!-- LIVE COUNTERS -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Itssanthoshhere&label=Profile+Views&color=2c5364&style=flat" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/Itssanthoshhere?label=Followers&style=flat&color=2c5364" alt="Followers" />
-</p> -->
+</p>
 
 ---
 
-I'm a BTech CSE (AI) student at **Bennett University** ('27) who builds things end-to-end — production React Native apps, full-stack web platforms, and ML systems. I've shipped real products for a defence ministry unit and a startup, and led design teams across 15+ university events.
+I'm a BTech CSE (AI) student at **Bennett University** ('27) building things end-to-end — from production React Native apps to full-stack web platforms to microservices systems. Currently the **sole frontend engineer** at an AI SaaS startup (MF360), I've also shipped software for a Ministry of Defence unit, placed **Top 100 out of 640 teams at Smart India Hackathon 2025**, and led media & content operations for a 2,000+ student audience.
 
-**Currently:** Head – Media & Content @ Dean Career Cloud · Multimedia Specialist @ ISAC · Open to **full-stack, mobile, and ML engineering roles**
+**Currently:** SDE Intern @ MF360 (Zenith Enterprise Solutions)· Open to **SDE internships & New Grad 2027 roles**
 
 ---
 
@@ -57,50 +57,81 @@ I'm a BTech CSE (AI) student at **Bennett University** ('27) who builds things e
 ![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **ML / AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
+**Software Development Intern — Zenith Enterprise Solutions (MF360)** `Jan 2026 – Present`
+Sole frontend engineer on **MF360**, an AI-powered SaaS platform for Mutual Fund Distributors. Led 2 complete platform redesigns from MVP to production, working directly with founders. Built dashboards, authentication flows, and reusable components in React + TypeScript + Vite + Tailwind CSS. Implemented Auth0 Google auth, engineered responsive UIs across mobile/tablet/desktop/large-display, and automated NAV data retrieval via Python + Power Query.
+
 **UI/UX Design Intern — ZONOMO (Startup)** `May 2025 – Jul 2025`
-Designed mobile-first wireframes and UI flows in Figma for 4+ core features; ran 3+ iteration cycles reducing design handoff friction through systematic component consistency standards.
+Delivered 30 high-fidelity Figma screens across 4+ core features in a 2-month Agile sprint. Led 3+ iteration cycles that cut designer-to-developer handoff time by **40%** and reduced clarification requests by **50%+** — zero post-handoff rework on delivery.
 
 **In-Plant Trainee – Web Dev — Heavy Vehicles Factory, Ministry of Defence, Govt. of India** `Jun 2025`
-Built HVF e-Leave — a full-stack intranet app (React · TypeScript · PHP · MySQL) that eliminated paper-based leave tracking entirely at India's premier defence manufacturing unit, cutting processing time from days to hours. Role-based auth, 6+ leave types, 99%+ uptime at demonstration.
+Built **HVF e-Leave** (React · TypeScript · PHP · MySQL) for India's premier defence manufacturing unit — eliminated paper-based leave tracking entirely, cutting processing time from days to hours. Role-based auth, 6+ leave types, delivered as a complete production system in a **2-week sprint** with LaTeX technical documentation.
+
+---
+
+## 🏆 Recognition
+
+🥇 **Smart India Hackathon 2025 — Top 100, Rank 67 / 640 teams (Top 11%)**
+*Ministry of Education, Govt. of India · Bennett University Internal Round*
+Built an AI-powered interview prep platform with real-time emotional analysis (Hume AI), role-specific mock interviews, and resume shortlisting using Next.js · PostgreSQL · Drizzle ORM · Clerk · Gemini AI · TypeScript
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Feasto](https://github.com/Itssanthoshhere/Feasto) — Full-Stack Food Delivery Microservices Platform
-Production-grade food delivery system built on a microservices architecture — six independent services (user, restaurant, order, payment, delivery, notification) communicating via RabbitMQ, with MongoDB for persistence. Designed for scalability and service isolation, mirroring real-world distributed systems patterns.
+### [Feasto](https://github.com/Itssanthoshhere/Feasto) — Microservices Food Delivery Platform
+Production-grade food delivery ecosystem built on **6 independent microservices** (auth, restaurant, order, payment, delivery, notification) communicating via RabbitMQ. Dual payment gateway (Razorpay + Stripe), geospatial rider dispatch using MongoDB 2dsphere, Google OAuth, role-based access, and real-time order tracking across React Web + Expo React Native.
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-2C5364?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ### [Expo Ecommerce](https://github.com/Itssanthoshhere/Expo-Ecommerce) — Full-Stack Mobile Shopping Platform
-Production-ready e-commerce app with React Native mobile frontend, admin dashboard, and REST API backend — 10+ product categories, real-time inventory. Stripe PaymentSheet, Clerk (Google & Apple login), TanStack React Query, Inngest background jobs, Sentry monitoring.
+Production-ready e-commerce app — React Native mobile frontend, React admin dashboard, Node.js + MongoDB backend. Stripe PaymentSheet, Clerk (Google & Apple login), TanStack React Query, Inngest background jobs, Sentry error monitoring. Deployed on iOS and Android.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+---
+
+### [WaveChat](https://github.com/Itssanthoshhere) — Cross-Platform Real-Time Messaging
+Custom Socket.IO server built from scratch — no Firebase abstractions. Messages hit the server, persist to MongoDB, and broadcast to every connected device simultaneously. Typing indicators, live presence, optimistic UI updates, OAuth via Google & Apple (Clerk), full TypeScript across mobile + web + server. Works on iOS, Android, and React web from one backend.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
@@ -114,7 +145,7 @@ Full-stack movie booking platform with real-time seat selection and Stripe payme
 
 ---
 
-### [DocSage](https://github.com/Itssanthoshhere/doc-qa-system) — Document QA System
+### [DocSage](https://github.com/Itssanthoshhere) — Document QA System
 Intelligent document QA using hybrid retrieval (FAISS + BM25 + NetworkX) with cross-encoder reranking and BERT extractive QA. React frontend + FastAPI backend.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -123,6 +154,13 @@ Intelligent document QA using hybrid retrieval (FAISS + BM25 + NetworkX) with cr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 > 📄 **IEEE Research Paper** — co-authored with Maligi Yashika & Ayush Supakar
+
+---
+
+### [agentlint](https://github.com/Itssanthoshhere) — Go CLI for AI Agent Context Files
+Open-source CLI tool (Go) for linting and validating AI agent context files — `AGENTS.md`, `CLAUDE.md`, and similar. `check` / `fix` subcommands, 0/1/2 exit code contract, MIT licensed. Built for developers working with LLM-powered systems.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
@@ -153,7 +191,7 @@ Intelligent document QA using hybrid retrieval (FAISS + BM25 + NetworkX) with cr
 
 ## 📬 Let's Connect
 
-Open to **full-stack, mobile (React Native), and ML engineering** roles — fresher / early-career.
+Actively seeking **SDE internships** and **New Graduate 2027** opportunities. If you're building something meaningful, reach out.
 
 <p align="left">
   <a href="https://linkedin.com/in/thesanthoshvs"><img src="https://img.shields.io/badge/LinkedIn-thesanthoshvs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -161,6 +199,8 @@ Open to **full-stack, mobile (React Native), and ML engineering** roles — fres
   <a href="https://santhosh-vs-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:santhosh02vs@gmail.com"><img src="https://img.shields.io/badge/Email-santhosh02vs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/vs_santhosh"><img src="https://img.shields.io/badge/LeetCode-vs__santhosh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <!-- FOOTER WAVE -->
